@@ -1,0 +1,12 @@
+h1 {
+    font-family: 'Rubik Doodle Shadow';
+    font-size: 250px;
+    text-align: center;
+}
+
+@media(max-width:475px) {
+    h1 {
+        margin: 300px auto auto auto;
+        font-size: 75px;
+    }
+}

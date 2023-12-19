@@ -1,0 +1,19 @@
+div {
+    height: 200px;
+    width: 200px;
+    background-color: rgba(20, 197, 14, 0.8);
+    /* margin-bottom: 20px; */
+    margin: 0 auto;
+    /* transition: 1s; */
+    /* transition-duration: 1s; */
+    margin-top: 10px;
+    transition: margin-top 2s ease-in-out 0.2s;
+    
+}
+
+div:hover {
+    /* transition: 0.5s; */
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 300px;
+}

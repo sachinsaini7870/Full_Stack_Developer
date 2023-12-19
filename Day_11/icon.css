@@ -1,0 +1,8 @@
+.icon {
+    font-size: 75px;
+}
+
+h1 {
+    filter: drop-shadow(2px 2px 8px rgba(232, 14, 14, 1));
+
+}
